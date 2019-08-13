@@ -1,12 +1,11 @@
-
-#TITLE: 
+# TITLE: 
 Portfolio - Abigail Wambui
 
-#AUTHOR:
+# AUTHOR:
 Abigail Wambui
 
 
-#CREDITS:
+# CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
